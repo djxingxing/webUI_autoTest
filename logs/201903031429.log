@@ -1,0 +1,6 @@
+2019-03-03 14:29:37,425-BasePage-INFO-输入内容Euler
+2019-03-03 14:29:37,706-BasePage-INFO-输入内容zhu1234..
+2019-03-03 14:29:37,882-BasePage-INFO-点击:登录
+2019-03-03 14:29:41,150-BasePage-INFO-输入内容haotest
+2019-03-03 14:29:41,161-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000232DA05C470>页面中未找到页面元素('searchsubmit',)
+2019-03-03 14:29:41,161-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'

@@ -1,0 +1,8 @@
+2019-03-03 15:11:03,101-BasePage-INFO-输入内容Euler
+2019-03-03 15:11:03,358-BasePage-INFO-输入内容zhu1234..
+2019-03-03 15:11:03,534-BasePage-INFO-点击:登录
+2019-03-03 15:11:07,523-BasePage-INFO-点击:默认版块
+2019-03-03 15:11:14,279-BasePage-INFO-点击:发起投票
+2019-03-03 15:11:14,727-BasePage-INFO-输入内容喜欢的宠物
+2019-03-03 15:11:15,038-BasePage-INFO-输入内容猫
+2019-03-03 15:11:25,044-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001E92D0CF5F8>页面中未找到页面元素('css selector', '.mbm p input[1] ')

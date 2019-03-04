@@ -1,0 +1,7 @@
+2019-02-28 19:49:31,256-BasePage-INFO-输入内容admin
+2019-02-28 19:49:32,704-BasePage-INFO-输入内容123456
+2019-02-28 19:49:34,189-BasePage-INFO-点击内容
+2019-02-28 19:49:37,982-BasePage-INFO-输入内容haotest
+2019-02-28 19:49:39,196-BasePage-INFO-点击内容
+2019-02-28 19:49:42,249-BasePage-ERROR-<Discuz_lx1.framework.admin_page.AdminPage object at 0x000001F9787B7080>页面中未找到页面元素('haotest',)
+2019-02-28 19:49:48,708-BasePage-INFO-点击内容

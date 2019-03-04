@@ -1,0 +1,7 @@
+2019-03-03 14:39:02,537-BasePage-INFO-输入内容Euler
+2019-03-03 14:39:02,753-BasePage-INFO-输入内容zhu1234..
+2019-03-03 14:39:02,920-BasePage-INFO-点击:登录
+2019-03-03 14:39:06,133-BasePage-INFO-输入内容haotest
+2019-03-03 14:39:06,141-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001534EA353C8>页面中未找到页面元素('.scbar_btn_td button',)
+2019-03-03 14:39:06,141-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 14:39:09,713-BasePage-INFO-点击:退出

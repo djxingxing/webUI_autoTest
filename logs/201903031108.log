@@ -1,0 +1,8 @@
+2019-03-03 11:08:39,909-BasePage-INFO-输入内容admin
+2019-03-03 11:08:40,064-BasePage-INFO-输入内容123456
+2019-03-03 11:08:40,173-BasePage-INFO-点击:登录
+2019-03-03 11:08:43,447-BasePage-INFO-点击:管理中心
+2019-03-03 11:09:12,177-BasePage-INFO-点击:论坛
+2019-03-03 11:09:23,310-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000210DD9F3390>页面中未找到页面元素('css selector', '.lastboard a')
+2019-03-03 11:09:23,310-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 11:09:34,425-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000210DD9F3390>页面中未找到页面元素('name', 'newforum[39][]')

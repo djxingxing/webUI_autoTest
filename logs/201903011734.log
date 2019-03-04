@@ -1,0 +1,15 @@
+2019-03-01 17:34:51,265-BasePage-INFO-输入内容Euler
+2019-03-01 17:34:51,671-BasePage-INFO-输入内容zhu1234..
+2019-03-01 17:34:57,268-BasePage-ERROR-Failed to type in input box with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+
+2019-03-01 17:34:58,015-BasePage-INFO-输入内容我的第一个帖子
+2019-03-01 17:34:58,545-BasePage-INFO-输入内容成功发表一个帖子
+2019-03-01 17:34:58,899-BasePage-INFO-输入内容回复我的第一个帖子
+2019-03-01 17:35:24,955-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000239F77021D0>页面中未找到页面元素('name', 'replysubmit')
+2019-03-01 17:35:24,956-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-01 17:35:35,694-BasePage-ERROR-Failed to type in input box with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+

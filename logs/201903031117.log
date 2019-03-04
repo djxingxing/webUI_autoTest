@@ -1,0 +1,9 @@
+2019-03-03 11:18:01,013-BasePage-INFO-输入内容admin
+2019-03-03 11:18:01,212-BasePage-INFO-输入内容123456
+2019-03-03 11:18:01,364-BasePage-INFO-点击:登录
+2019-03-03 11:18:04,822-BasePage-INFO-点击:管理中心
+2019-03-03 11:18:06,099-BasePage-INFO-点击:论坛
+2019-03-03 11:18:06,599-BasePage-INFO-点击:添加新版块
+2019-03-03 11:18:17,684-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000002327D7493C8>页面中未找到页面元素('name', 'newforum[39][]')
+2019-03-03 11:18:17,685-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-03 11:18:28,767-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000002327D7493C8>页面中未找到页面元素('name', 'newforum[39][]')

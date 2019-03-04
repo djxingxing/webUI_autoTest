@@ -1,0 +1,14 @@
+2019-03-03 10:52:59,184-BasePage-INFO-输入内容admin
+2019-03-03 10:52:59,404-BasePage-INFO-输入内容123456
+2019-03-03 10:52:59,551-BasePage-INFO-点击:登录
+2019-03-03 10:53:03,175-BasePage-INFO-点击:默认版块
+2019-03-03 10:53:04,495-BasePage-INFO-点击:第一个帖子
+2019-03-03 10:53:04,934-BasePage-INFO-点击:删除主题
+2019-03-03 10:53:05,829-BasePage-INFO-点击:确定
+2019-03-03 10:53:06,163-BasePage-INFO-点击:管理中心
+2019-03-03 10:53:07,541-BasePage-INFO-点击:论坛
+2019-03-03 10:53:18,576-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B453883358>页面中未找到页面元素('css selector', '.addtr')
+2019-03-03 10:53:18,583-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:53:29,693-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B453883358>页面中未找到页面元素('id', 'submit_editsubmit')
+2019-03-03 10:53:29,693-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:53:30,282-BasePage-INFO-点击:退出

@@ -1,0 +1,8 @@
+2019-03-03 15:25:21,910-BasePage-INFO-输入内容Euler
+2019-03-03 15:25:22,148-BasePage-INFO-输入内容zhu1234..
+2019-03-03 15:25:22,317-BasePage-INFO-点击:登录
+2019-03-03 15:25:26,076-BasePage-INFO-点击:默认版块
+2019-03-03 15:25:37,226-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001C4BB47C6A0>页面中未找到页面元素('link text', '发起投票')
+2019-03-03 15:25:37,227-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 15:25:37,471-BasePage-INFO-输入内容喜欢的宠物
+2019-03-03 15:25:48,572-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001C4BB47C6A0>页面中未找到页面元素('css selector', '.mbm p input ')

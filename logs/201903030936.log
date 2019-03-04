@@ -1,0 +1,11 @@
+2019-03-03 09:36:46,473-BasePage-INFO-输入内容admin
+2019-03-03 09:36:46,753-BasePage-INFO-输入内容123456
+2019-03-03 09:36:46,945-BasePage-INFO-点击:登录
+2019-03-03 09:36:50,892-BasePage-INFO-点击:默认版块
+2019-03-03 09:37:01,960-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000021ED76D2278>页面中未找到页面元素('css selector', '.common')
+2019-03-03 09:37:01,960-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 09:37:13,508-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000021ED76D2278>页面中未找到页面元素('link text', '删除主题')
+2019-03-03 09:37:13,508-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 09:37:24,715-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000021ED76D2278>页面中未找到页面元素('name', 'modsubmit')
+2019-03-03 09:37:24,715-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 09:37:25,144-BasePage-INFO-点击:退出

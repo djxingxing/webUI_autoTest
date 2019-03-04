@@ -1,0 +1,16 @@
+2019-03-03 13:51:10,964-BasePage-INFO-输入内容admin
+2019-03-03 13:51:11,133-BasePage-INFO-输入内容123456
+2019-03-03 13:51:11,258-BasePage-INFO-点击:登录
+2019-03-03 13:51:14,539-BasePage-INFO-点击:管理中心
+2019-03-03 13:51:43,051-BasePage-INFO-点击:论坛
+2019-03-03 13:51:43,344-BasePage-INFO-点击:添加新版块
+2019-03-03 13:51:43,489-BasePage-INFO-清空所有内容
+2019-03-03 13:51:43,669-BasePage-INFO-输入内容版块2
+2019-03-03 13:51:44,096-BasePage-INFO-点击:提交
+2019-03-03 13:51:44,785-BasePage-INFO-点击:退出
+2019-03-03 13:51:48,165-BasePage-INFO-点击:退出
+2019-03-03 13:51:51,404-BasePage-INFO-输入内容Euler
+2019-03-03 13:51:51,623-BasePage-INFO-输入内容zhu1234..
+2019-03-03 13:51:51,794-BasePage-INFO-点击:登录
+2019-03-03 13:52:05,866-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000002399714E4E0>页面中未找到页面元素('xpath', ' // td/h2[2]')
+2019-03-03 13:52:05,867-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'

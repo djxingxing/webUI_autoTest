@@ -1,0 +1,7 @@
+2019-03-03 13:55:17,715-BasePage-INFO-输入内容admin
+2019-03-03 13:55:17,941-BasePage-INFO-输入内容123456
+2019-03-03 13:55:18,114-BasePage-INFO-点击:登录
+2019-03-03 13:55:21,449-BasePage-INFO-点击:管理中心
+2019-03-03 13:55:54,941-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001FAAAC5F470>页面中未找到页面元素('css selector', '.bm_c h2 a')
+2019-03-03 13:55:54,942-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 13:56:06,080-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001FAAAC5F470>页面中未找到页面元素('xpath', "//input[@id='subject']")

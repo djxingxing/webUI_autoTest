@@ -1,0 +1,11 @@
+2019-03-03 13:39:14,818-BasePage-INFO-输入内容admin
+2019-03-03 13:39:15,058-BasePage-INFO-输入内容123456
+2019-03-03 13:39:15,259-BasePage-INFO-点击:登录
+2019-03-03 13:39:18,509-BasePage-INFO-点击:管理中心
+2019-03-03 13:39:19,783-BasePage-INFO-点击:论坛
+2019-03-03 13:39:20,357-BasePage-INFO-点击:添加新版块
+2019-03-03 13:39:20,488-BasePage-INFO-清空所有内容
+2019-03-03 13:39:20,695-BasePage-INFO-输入内容版块2
+2019-03-03 13:39:21,199-BasePage-INFO-点击:提交
+2019-03-03 13:39:21,784-BasePage-INFO-点击:退出
+2019-03-03 13:39:35,883-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000242103EE4E0>页面中未找到页面元素('name', 'username')

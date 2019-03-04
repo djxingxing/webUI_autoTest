@@ -1,0 +1,11 @@
+2019-03-02 14:28:52,704-BasePage-INFO-输入内容Euler
+2019-03-02 14:28:53,005-BasePage-INFO-输入内容zhu1234..
+2019-03-02 14:28:53,203-BasePage-INFO-点击:登录
+2019-03-02 14:28:56,991-BasePage-INFO-点击:默认版块
+2019-03-02 14:28:57,839-BasePage-INFO-输入内容我的帖子标题
+2019-03-02 14:28:58,170-BasePage-INFO-输入内容我的帖子内容
+2019-03-02 14:29:00,371-BasePage-INFO-点击:发帖
+2019-03-02 14:29:15,576-BasePage-INFO-输入内容回复我的帖子
+2019-03-02 14:29:16,289-BasePage-INFO-点击:回复
+2019-03-02 14:29:26,295-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000025CB5E0A1D0>页面中未找到页面元素(('link text', '退出'),)
+2019-03-02 14:29:26,296-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'

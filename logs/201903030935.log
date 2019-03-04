@@ -1,0 +1,6 @@
+2019-03-03 09:36:06,261-BasePage-INFO-输入内容admin
+2019-03-03 09:36:06,489-BasePage-INFO-输入内容zhu1234..
+2019-03-03 09:36:06,673-BasePage-INFO-点击:登录
+2019-03-03 09:36:10,342-BasePage-INFO-点击:默认版块
+2019-03-03 09:36:21,521-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000258E1E831D0>页面中未找到页面元素('css selector', '.common')
+2019-03-03 09:36:21,521-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'

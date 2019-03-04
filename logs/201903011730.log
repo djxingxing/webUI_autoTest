@@ -1,0 +1,7 @@
+2019-03-01 17:30:33,702-BasePage-INFO-输入内容Euler
+2019-03-01 17:30:34,229-BasePage-INFO-输入内容zhu1234..
+2019-03-01 17:30:39,902-BasePage-INFO-输入内容我的第一个帖子
+2019-03-01 17:30:40,609-BasePage-INFO-输入内容成功发表一个帖子
+2019-03-01 17:30:41,063-BasePage-INFO-输入内容回复我的第一个帖子
+2019-03-01 17:31:07,176-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x00000280441FB208>页面中未找到页面元素('name', 'replysubmit')
+2019-03-01 17:31:07,177-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'

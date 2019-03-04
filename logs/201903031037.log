@@ -1,0 +1,14 @@
+2019-03-03 10:37:56,269-BasePage-INFO-输入内容admin
+2019-03-03 10:37:56,523-BasePage-INFO-输入内容123456
+2019-03-03 10:37:56,709-BasePage-INFO-点击:登录
+2019-03-03 10:38:00,565-BasePage-INFO-点击:默认版块
+2019-03-03 10:38:02,131-BasePage-INFO-点击:第一个帖子
+2019-03-03 10:38:02,682-BasePage-INFO-点击:删除主题
+2019-03-03 10:38:03,718-BasePage-INFO-点击:确定
+2019-03-03 10:38:04,162-BasePage-INFO-点击:管理中心
+2019-03-03 10:38:09,884-BasePage-INFO-点击:论坛
+2019-03-03 10:38:21,171-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000002257D363358>页面中未找到页面元素('link text', '添加新版块')
+2019-03-03 10:38:21,178-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:38:32,309-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000002257D363358>页面中未找到页面元素('id', 'submit_editsubmit')
+2019-03-03 10:38:32,309-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:38:37,815-BasePage-INFO-点击:退出

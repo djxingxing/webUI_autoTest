@@ -1,0 +1,18 @@
+2019-03-03 16:23:49,217-BasePage-INFO-输入内容Euler
+2019-03-03 16:23:49,478-BasePage-INFO-输入内容zhu1234..
+2019-03-03 16:23:49,653-BasePage-INFO-点击:登录
+2019-03-03 16:23:53,397-BasePage-INFO-点击:默认版块
+2019-03-03 16:23:54,194-BasePage-INFO-点击:发贴
+2019-03-03 16:23:55,053-BasePage-INFO-点击:发起投票
+2019-03-03 16:23:55,315-BasePage-INFO-输入内容喜欢的宠物
+2019-03-03 16:23:55,541-BasePage-INFO-输入内容猫
+2019-03-03 16:23:55,709-BasePage-INFO-输入内容狗
+2019-03-03 16:23:55,860-BasePage-INFO-输入内容猪
+2019-03-03 16:23:56,085-BasePage-INFO-点击:发起投票
+2019-03-03 16:23:58,386-BasePage-INFO-点击:猫
+2019-03-03 16:23:59,498-BasePage-INFO-点击:提交
+2019-03-03 16:24:10,651-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000020671168940>页面中未找到页面元素('xpath', ' // tbody/tr[0]/td[2]')
+2019-03-03 16:24:10,657-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'text'
+2019-03-03 16:24:20,899-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x0000020671168940>页面中未找到页面元素('xpath', ' // tbody/tr[2]/td[2]')
+2019-03-03 16:24:20,899-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'text'
+2019-03-03 16:24:26,436-BasePage-INFO-点击:退出

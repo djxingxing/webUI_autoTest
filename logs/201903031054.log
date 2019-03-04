@@ -1,0 +1,32 @@
+2019-03-03 10:54:30,009-BasePage-INFO-输入内容admin
+2019-03-03 10:54:30,214-BasePage-INFO-输入内容123456
+2019-03-03 10:54:30,375-BasePage-INFO-点击:登录
+2019-03-03 10:54:34,147-BasePage-INFO-点击:默认版块
+2019-03-03 10:54:36,205-BasePage-INFO-点击:第一个帖子
+2019-03-03 10:54:36,660-BasePage-INFO-点击:删除主题
+2019-03-03 10:54:37,477-BasePage-INFO-点击:确定
+2019-03-03 10:54:37,789-BasePage-INFO-点击:管理中心
+2019-03-03 10:54:42,301-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B50C0332E8>页面中未找到页面元素('link text', '论坛')
+2019-03-03 10:54:42,302-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:54:42,312-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B50C0332E8>页面中未找到页面元素('css selector', '.addtr')
+2019-03-03 10:54:42,312-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:54:42,318-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B50C0332E8>页面中未找到页面元素('link text', '提交')
+2019-03-03 10:54:42,318-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:54:42,331-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001B50C0332E8>页面中未找到页面元素('link text', '退出')
+2019-03-03 10:54:42,332-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:54:57,227-BasePage-INFO-输入内容admin
+2019-03-03 10:54:57,415-BasePage-INFO-输入内容123456
+2019-03-03 10:54:57,553-BasePage-INFO-点击:登录
+2019-03-03 10:55:01,377-BasePage-INFO-点击:默认版块
+2019-03-03 10:55:03,072-BasePage-INFO-点击:第一个帖子
+2019-03-03 10:55:03,487-BasePage-INFO-点击:删除主题
+2019-03-03 10:55:04,285-BasePage-INFO-点击:确定
+2019-03-03 10:55:04,590-BasePage-INFO-点击:管理中心
+2019-03-03 10:55:08,992-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001EF765D7390>页面中未找到页面元素('link text', '论坛')
+2019-03-03 10:55:08,993-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:55:09,001-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001EF765D7390>页面中未找到页面元素('css selector', '.addtr')
+2019-03-03 10:55:09,001-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:55:09,014-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001EF765D7390>页面中未找到页面元素('link text', '提交')
+2019-03-03 10:55:09,014-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-03 10:55:09,019-BasePage-ERROR-<Discuz_lx1.framework.user_page.UserPage object at 0x000001EF765D7390>页面中未找到页面元素('link text', '退出')
+2019-03-03 10:55:09,020-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'click'
